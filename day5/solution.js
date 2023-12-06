@@ -22,7 +22,6 @@ const TEST_CASES = [
 // * = Barrera abierta
 // | = Barrera cerrada
 
-// Solution 1
 function cyberReindeer(road, time) {
   const result = [road];
   let sledPosition = 0;
